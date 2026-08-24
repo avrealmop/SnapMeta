@@ -35,7 +35,7 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 - **Auto-retry with fallback** — Failed generations automatically retry with alternate API keys.
 - **Multiple API keys in parallel** — Add several keys per provider; SnapMeta distributes workload across them.
 
-### Ideas / StockScope
+### Ideas
 
 - **Discover** — Scan trending niches for Footage, Raster, Vector, and PNG content. Get long-tail keyword lists, production notes, and AI-suggested sources.
 - **Gap Analysis** — Find high-demand keywords with low supply. Filter by intent, trend volume, and potential, then push the best ones into your keyword list.
