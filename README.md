@@ -35,7 +35,7 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 - **Auto-retry with fallback** — Failed generations automatically retry with alternate API keys.
 - **Multiple API keys in parallel** — Add several keys per provider; SnapMeta distributes workload across them.
 
-### Ideas
+### Ideas / StockScope
 
 - **Discover** — Scan trending niches for Footage, Raster, Vector, and PNG content. Get long-tail keyword lists, production notes, and AI-suggested sources.
 - **Gap Analysis** — Find high-demand keywords with low supply. Filter by intent, trend volume, and potential, then push the best ones into your keyword list.
@@ -72,8 +72,8 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 ## Getting Started
 
-1. Download the installer from [Releases](https://github.com/avrealmop/SnapMeta/releases/latest).
-2. Run `SnapMeta-Setup-1.0.1.exe` and follow the wizard.
+1. Download SnapMeta from the Download table below (installer, portable, or Microsoft Store).
+2. Install SnapMeta and follow the wizard.
 3. Open SnapMeta → **API Key** → add your AI provider API key.
 4. Drop in a file or folder, click **Generate**, review, and save.
 
