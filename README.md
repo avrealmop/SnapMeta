@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo/app_logo_1024.png" alt="SnapMeta Logo" width="128"/>
+
 # SnapMeta
 
 **AI Metadata Studio for Microstock**
