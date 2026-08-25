@@ -79,26 +79,6 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 ---
 
-<!-- ============================================================
-     CARA EDIT VIDEO TUTORIALS:
-     1. Buka YouTube, klik video → Share → Copy video ID (bagian setelah watch?v=)
-        Contoh: https://www.youtube.com/watch?v=ABCD1234XYZ  →  ID = ABCD1234XYZ
-     2. Copy 1 blok baris di bawah ini (3 baris: <!--, ![], |), paste sebanyak jumlah video.
-     3. Ganti VIDEO_ID dengan ID video kamu.
-     4. Ganti caption thumbnail (misal "Getting Started", "Batch Processing", dll).
-     5. Hapus atau komentari baris yang tidak dipakai.
-     ============================================================ -->
-
-## Video Tutorials
-
-| | |
-|:---:|:---:|
-| [![Tutorial 1](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) | [![Tutorial 2](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) |
-
-<!-- Tambah baris di atas sesuai jumlah video yang kamu punya. Hapus yang tidak dipakai. -->
-
----
-
 ## Download
 
 | Package | Link |
