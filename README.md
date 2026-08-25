@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo/logo.png" alt="SnapMeta Logo" width="128"/>
+<img src="https://github.com/avrealmop/SnapMeta/blob/main/assets/logo.png" alt="SnapMeta Logo" width="128"/>
 
 # SnapMeta
 
@@ -58,8 +58,8 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 | | | |
 |:---:|:---:|:---:|
-| ![1](assets/screenshots/snapmeta_WuNKX9igJY.png) | ![2](assets/screenshots/snapmeta_PCeshxXQSS.png) | ![3](assets/screenshots/snapmeta_Mk7myKF04z.png) |
-| ![4](assets/screenshots/snapmeta_ZG929sPKlW.png) | ![5](assets/screenshots/snapmeta_ZwhA90LXtx.png) | ![6](assets/screenshots/snapmeta_0218tJbZ7G.png) |
+| ![1](https://github.com/avrealmop/SnapMeta/blob/main/assets/1.png) | ![2](https://github.com/avrealmop/SnapMeta/blob/main/assets/2.png) | ![3](https://github.com/avrealmop/SnapMeta/blob/main/assets/3.png) |
+| ![4](https://github.com/avrealmop/SnapMeta/blob/main/assets/4.png) | ![5](https://github.com/avrealmop/SnapMeta/blob/main/assets/5.png) | 
 
 ---
 
@@ -103,9 +103,9 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 | Package | Link |
 |---|---|
-| Windows (x64) Installer | [SnapMeta-Setup-1.0.1.exe](https://github.com/avrealmop/SnapMeta/releases/latest) |
-| Windows Portable (x64) | [SnapMeta-Portable-1.0.1.zip](https://github.com/avrealmop/SnapMeta/releases/latest) |
-| Microsoft Store | [SnapMeta on Store](https://apps.microsoft.com/detail/9PD3B95ZG4DJ) |
+| Windows (x64) Installer | [SnapMeta-Setup-1.0.1.exe](/) |
+| Windows Portable (x64) | [SnapMeta-Portable-1.0.1.zip](/) |
+| Microsoft Store | [SnapMeta on Store](https://apps.microsoft.com/detail/9pd3b95zg4dj?hl=en-US&gl=ID) |
 
 > Full changelog and previous releases: [Releases page](https://github.com/avrealmop/SnapMeta/releases)
 
