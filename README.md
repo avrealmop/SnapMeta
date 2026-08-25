@@ -103,8 +103,8 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 | Package | Link |
 |---|---|
-| Windows (x64) Installer | [SnapMeta-Setup-1.0.1.exe](/) |
-| Windows Portable (x64) | [SnapMeta-Portable-1.0.1.zip](/) |
+| Windows (x64) Installer | SnapMeta-Setup-1.0.1.exe |
+| Windows Portable (x64) | SnapMeta-Portable-1.0.1.zip |
 | Microsoft Store | [SnapMeta on Store](https://apps.microsoft.com/detail/9pd3b95zg4dj?hl=en-US&gl=ID) |
 
 > Full changelog and previous releases: [Releases page](https://github.com/avrealmop/SnapMeta/releases)
