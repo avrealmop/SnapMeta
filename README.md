@@ -121,6 +121,15 @@ Third-party notices: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
 
 ## Contact & Support
 
-- **GitHub Repository**: [https://github.com/avrealmop/SnapMeta](https://github.com/avrealmop/SnapMeta)
-- **Bug Report / Feedback**: [Google Form](https://forms.gle/9BdPjvERsFKNTktX9)
+- **Instagram**: [@avrealmop](https://www.instagram.com/avrealmop/)
 - **Email**: [blackzedo@gmail.com](mailto:blackzedo@gmail.com)
+
+---
+
+## Donate
+
+Love SnapMeta? Support the development:
+
+- [Buy me a coffee on Ko-fi](https://ko-fi.com/avrealmop)
+- [Donate via PayPal](https://www.paypal.com/paypalme/apriliyanto77)
+
