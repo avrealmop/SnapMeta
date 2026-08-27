@@ -8,7 +8,7 @@
 
 Generate titles, descriptions, and keywords for your stock files in seconds — written directly into JPG, PNG, SVG, and EPS.
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20(x64)-0078D6)
 ![License](https://img.shields.io/badge/license-AGPL--3.0-orange)
 
@@ -52,6 +52,12 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 - **Consent gate** — First-run privacy dialog explains data flow; you must agree before using AI features.
 - **Ghostscript for EPS** — Bundled (AGPL-3.0), auto-installed on first EPS processing. Runs offline.
 
+### Licensing
+
+- **Paid app** — available on the Microsoft Store with a **7-day free trial**, then a one-time purchase.
+- Trial and license are tied to your Microsoft account and verified against the Store on each launch; reinstalling does not reset the trial.
+- When the trial ends, the app shows a purchase screen and unlocks automatically once the payment completes.
+
 ---
 
 ## Screenshots
@@ -72,8 +78,8 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 ## Getting Started
 
-1. Download SnapMeta from the Download table below (installer, portable, or Microsoft Store).
-2. Install SnapMeta and follow the wizard.
+1. [Download SnapMeta from the Microsoft Store](https://apps.microsoft.com/store/detail/9PD3B95ZG4DJ?cid=DevShareMCLPCS) (7-day free trial, then one-time purchase).
+2. Install and launch SnapMeta.
 3. Open SnapMeta → **API Key** → add your AI provider API key.
 4. Drop in a file or folder, click **Generate**, review, and save.
 
@@ -83,9 +89,7 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 
 | Package | Link |
 |---|---|
-| Windows (x64) Installer | SnapMeta-Setup-1.0.1.exe |
-| Windows Portable (x64) | SnapMeta-Portable-1.0.1.zip |
-| Microsoft Store | SnapMeta on Store|
+| Microsoft Store (Windows x64) | [SnapMeta on Microsoft Store](https://apps.microsoft.com/store/detail/9PD3B95ZG4DJ?cid=DevShareMCLPCS) |
 
 > Full changelog and previous releases: [Releases page](https://github.com/avrealmop/SnapMeta/releases)
 
@@ -96,13 +100,6 @@ SnapMeta is a desktop application for microstock creators (Shutterstock, Adobe S
 This project is licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
 
 Third-party notices: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
-
----
-
-## Contact & Support
-
-- **Instagram**: [@avrealmop](https://www.instagram.com/avrealmop/)
-- **Email**: [blackzedo@gmail.com](mailto:blackzedo@gmail.com)
 
 ---
 
